@@ -220,6 +220,28 @@ alt="Estação de tratamento de água">
 <section id="ajuda" class="background-image"
 style="background-image:url('https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1500&q=80');">
 
+<section id="formulario">
+    <h2>📝 Conte pra gente sobre sua cidade</h2>
+
+    <p>
+        Queremos saber como está o saneamento básico onde você mora.
+        Sua resposta ajuda a refletir sobre a realidade de diferentes lugares.
+    </p>
+
+    <form>
+        <label for="cidade">Cidade:</label><br>
+        <input type="text" id="cidade" name="cidade" placeholder="Digite o nome da sua cidade" required><br><br>
+
+        <label for="estado">Estado:</label><br>
+        <input type="text" id="estado" name="estado" placeholder="Digite seu estado" required><br><br>
+
+        <label for="descricao">Como está o saneamento básico na sua cidade?</label><br>
+        <textarea id="descricao" name="descricao" rows="6" placeholder="Descreva a situação do saneamento, água, esgoto, etc." required></textarea><br><br>
+
+        <button type="submit" class="btn">Enviar relato</button>
+    </form>
+</section>
+
 <h2>Você faz parte disso</h2>
 
 <p>
