@@ -219,6 +219,7 @@ alt="Estação de tratamento de água">
 
 <section id="ajuda" class="background-image"
 style="background-image:url('https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1500&q=80');">
+</section>
 
 <section id="formulario">
     <h2>📝 Conte pra gente sobre sua cidade</h2>
